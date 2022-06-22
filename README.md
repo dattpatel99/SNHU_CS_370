@@ -10,12 +10,12 @@
 
 3. What do computer scientists do and why does it matter?
 
--	
+-	Computer Scientists work on creating solutions to problems. The problems can be as simple as making coffee faster and easier to as difficult as reducing reckless driving incidents using AI. Computer scientists are tasked with developing theories using mathematical functions such that the theories can efficiently assist in solving problems. For instance, a computer scientist working on AI would try and solve the problem of how a computer can think and make decisions similar to humans. The computer scientist would solve this problem by finding a way to implement human thinking in terms of math functions and convert that into theoretical functions which can later be implemented as code.
 
 4. How do I approach a problem as a computer scientist?
 
--
+-	My first step is to gather data on the problem and understand it better. Once I have a better understanding of the problem, I try to understand the final solution that I am trying to find. Doing so allows me to gain insights into what potential steps I would need to take to reach near that solution. Finally, I plan out the steps I am going to take to reach the solution and the research I will need to do.  
 
 5. What are my ethical responsibilities to the end user and the organization?
 
--
+-	There are many ethical responsibilities I have to the end user and organization but the one that comes to my mind first is to avoid harming others. Software and computers have been developed to assist in our daily lives not to cause harm to us. I think it is my responsibility to both users and organizations to ensure that malicious code is not used.
