@@ -6,11 +6,11 @@
 
 2. Connect your learning from throughout this course to the larger field of computer science:
 
-- Through this course I was able to get a better understanding of the field of Computer Science. This course showed me how AI is being used in various things like analytics, security, hardware, and etc. Additionally, this course showed me how computer science is the study of using mathematics to implement calculations that mimic decision making. Finally, I learned that in the field of computer science 
+- Through this course I was able to get a better understanding of the field of Computer Science. This course showed me how AI is being used in various things like analytics, security, hardware, and etc. Additionally, this course showed me how computer science is the study of using mathematics to implement calculations that mimic decision making. Finally, I learned how developing AI is similar to using math, data structures, and algorithms to indicate which decision is better than the other; which I think is like generic coding in Computer Science.
 
 3. What do computer scientists do and why does it matter?
 
--
+-	
 
 4. How do I approach a problem as a computer scientist?
 
